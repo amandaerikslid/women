@@ -1,7 +1,6 @@
 * {
   margin: auto;
   padding: 0;
-  font-family: "Abel", sans-serif;
 }
 
 header {
@@ -44,7 +43,7 @@ nav ul li a {
 
 nav ul li a:hover {
   transition: 0.5s ease;
-  color: gray;
+  color: rgba(245, 196, 204, 0.795);
 }
 
 .grid-container {
